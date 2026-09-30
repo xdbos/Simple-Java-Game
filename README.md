@@ -11,15 +11,15 @@ Once inside a level you need to collect all the gold chests and get back to the 
 
 ## Controls
 
-###Main menu
+### Main menu
 * Press "1", "2" or "3" to play a premade(but overridable level).
 * Press "e" to enter the map editor.
 
-###Game
+### Game
 * Use w, a, s, d to move the player around.
 * Press "m" to go back to the main menu.
 
-###Editor
+### Editor
 * Use w, a, s, d to move the map.
 * Press "-" to zoom the map out and "=" to zoom the map in.
 * Press "q" to load any map named "data.csv" into the editor.
